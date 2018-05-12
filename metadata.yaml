@@ -1,0 +1,31 @@
+_repo: The-Early-Negro-Convention-MovementThe-American-Negro-Academy-Occasional-Papers-No.-9_31328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cromwell, John Wesley
+    alias: Cromwell, John W. (John Wesley)
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '35157'
+    url: http://www.gutenberg.org/2009/agents/35157
+description: ''
+gutenberg_issued: '2010-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31328'
+  lccn: 09024040
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- Colonization'
+- !lcsh 'Antislavery movements -- United States'
+title: 'The Early Negro Convention Movement
+
+  The American Negro Academy, Occasional Papers No. 9'
+url: http://www.gutenberg.org/ebooks/31328
